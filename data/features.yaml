@@ -1,0 +1,74 @@
+about:
+  name: Jaqueline Medeiros
+  tagline: Analytics Engineer
+  #phone: "5070*4****"
+  email: jaqueline@devmedeiros.com
+  links:
+    - title: medeiros-jaqueline
+      url: https://www.linkedin.com/in/medeiros-jaqueline/
+      icon: fab fa-linkedin
+    - title: devmedeiros
+      url: https://github.com/devmedeiros
+      icon: fab fa-github
+    - title: devmedeiros.com
+      url: https://devmedeiros.com/
+      icon: fas fa-globe
+  details: |
+    Professional with an analytical profile, with more than three years of experience in Data Science. Currently studying for an MBA in Database with Big Data with a degree in Statistics.
+
+    Ability to solve complex problems and generate insights that help improve data governance, productivity, and transparency.
+
+skills:
+  groupname:
+    list:
+    - Python, R, Airflow, Power BI, SQL, Git, Flask, Django
+
+interests:
+  - Data Science
+  - Knowledge Sharing
+  - Continuous Improvement
+
+languages:
+  - name: Portuguese
+    level: Native
+
+  - name: English
+    level: Advanced
+    #certificates:
+    #  - "YDS: 86.25 - 2018"
+    #  - "TOEFL: 109 - 2021"
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "Machine Learning for Digital Business"
+    subtitle: Alura
+    date: "2022"
+    link: https://cursos.alura.com.br/degree/certificate/1ba5fa24-b24d-496c-a17d-befa256ee990?lang=en
+
+  - title: "Machine Learning"
+    subtitle: Alura
+    date: "2022"
+    link: https://cursos.alura.com.br/degree/certificate/4d54aafb-285a-47c8-979d-7e513191d612?lang=en
+
+  - title: "Python for Data Science"
+    subtitle: Alura
+    date: "2021"
+    link: https://cursos.alura.com.br/degree/certificate/ae48ffb3-ca83-4a24-a769-e2ae7d4e62cc?lang=en
+
