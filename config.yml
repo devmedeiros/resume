@@ -4,6 +4,14 @@ title: "Jaqueline Medeiros - Résumé"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4"
 
+googleAnalytics: G-D4W6Y2T4WX
+privacy:
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: true
+
 # Construct main column, side column and additional page from features
 # Every column and page may include any features. Some features are
 # created using generic widgets and you can add easily new features,

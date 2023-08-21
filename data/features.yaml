@@ -14,18 +14,19 @@ about:
       url: https://devmedeiros.com/
       icon: fas fa-globe
   details: |
-    Professional with an analytical profile, with more than three years of experience in Data Science. Currently studying for an MBA in Database with Big Data with a degree in Statistics.
+    Professional with an analytical profile, and four years of experience in Data Science. Currently studying for an MBA in Database with Big Data with a degree in Statistics.
 
     Ability to solve complex problems and generate insights that help improve data governance, productivity, and transparency.
 
 skills:
   groupname:
     list:
-    - Python, R, Airflow, Power BI, SQL, Git, Flask, Django, Data Analysis, Machine Learning
+    - Python, R, Airflow, Power BI, SQL, Git, Streamlit, Flask, Django
 
 interests:
-  - Data Science
-  - Knowledge Sharing
+  - Data Analysis
+  - Machine Learning
+  - Sharing Knowledge
   - Continuous Improvement
 
 languages:
