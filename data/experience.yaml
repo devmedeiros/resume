@@ -1,4 +1,4 @@
-- company: Henry Schein
+- company: Henry Schein Brazil
   roles:
     - role: Analytics Engineer
       details:  |
@@ -11,10 +11,10 @@
   roles: 
     - role: Data Analyst
       details:  |
-       - Data ingestion from multiple sources using a combination of SQL, R, and Python. Making views to be used in Business Intelligenc dashboards;
+       - Data ingestion from multiple sources using a combination of SQL, R, and Python. Making views to be used in Business Intelligence dashboards;
        - Creation and maintenance of interactive Power BI dashboards in order to monitor the cycle of electoral processes in order to find bottlenecks;
        - Understand and report main variations in key indicators.
-      date: "06.2020 - 12.2022"
+      date: "06.2020 - 11.2022"
     
     #- role: Junior Software Developer
     #  date: "10.2018 - 06.2019"
@@ -25,7 +25,7 @@
   roles:
     - role: Data Analyst (Intern)
       details:  |
-        - Planning and implementation of electoral, opinion and market surveys with the objective of creating a database ensuring complete mapping of market and consumer behavior;
-        - Data collection, treatment and cleaning as well as static and dynamic Business Intelligence reports;
+        - Planning and implementation of electoral, opinion, and market surveys with the objective of creating a database ensuring complete mapping of market and consumer behavior;
+        - Data collection, treatment, and cleaning as well as static and dynamic Business Intelligence reports;
         - Net Promoter Score (NPS) monitoring.
       date: "04.2019 - 05.2020"

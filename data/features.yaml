@@ -14,7 +14,7 @@ about:
       url: https://devmedeiros.com/
       icon: fas fa-globe
   details: |
-    Professional with an analytical profile, and four years of experience in Data Science. Currently studying for an MBA in Database with Big Data with a degree in Statistics.
+    Professional with an analytical profile, and four years of experience in Data Science. I hold a bachelor's degree in Statistics and received a Specialist degree in Database with Big Data. Currently working as an Analytics Engineer at Henry Schein Brazil.
 
     Ability to solve complex problems and generate insights that help improve data governance, productivity, and transparency.
 
@@ -35,6 +35,9 @@ languages:
 
   - name: English
     level: Advanced
+
+  - name: French
+    level: Beginner
     #certificates:
     #  - "YDS: 86.25 - 2018"
     #  - "TOEFL: 109 - 2021"
