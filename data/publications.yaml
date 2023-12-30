@@ -2,15 +2,32 @@
     - last_name: Medeiros
       middle_name: Souza
       first_name: Jaqueline
+    - last_name: Lopes Manheze
+      middle_name: Nery
+      first_name: Vitória
+    - last_name: Cordeiro
+      middle_name: Farias 
+      first_name: Douglas
+  date: "2023"
+  title: "Ciência de dados aplicada à extração e análise do programa Nota Fiscal Goiana"
+  journal: "Revista Eletrônica de Sistemas de Informação e Gestão Tecnológica"
+  vol: 13
+  issue: "2237-0072"
+  page: "109-120"
+  link: "http://periodicos.unifacef.com.br/resiget/article/view/2700/1876"
+
+- authors:
+    - last_name: Medeiros
+      middle_name: Souza
+      first_name: Jaqueline
     - last_name: Júnior
       middle_name: Vargas
       first_name: Valdivino
   date: "2018"
   title: "Uma aplicação do processo de nascimento e morte"
   journal: "Anais Workshop on Statistics and Probability, Satellite Meeting - ICM 2018"
-  #vol: 27
-  #issue: 5
   page: "24"
+  link: "https://drive.google.com/file/d/1DqCHJyBuFqg8BiexgnglbryvH8Bs_SPT/view"
 
 - authors:
     - last_name: Medeiros
@@ -20,8 +37,9 @@
       middle_name: Mendonça Rodrigues
       first_name: Renata
   date: "2017"
-  title: "ANÁLISE E MONITORAMENTO DAS TAXAS INFLACIONÁRIAS NO BRASIL DURANTE O PERÍODO DE 2002 - 2016"
+  title: "Análise e Monitoramento das Taxas Inflacionárias no Brasil Durante o Período de 2002 - 2016"
   journal: "Anais do Congresso de Pesquisa, Ensino e Extensão"
   vol: 14
   issue: "2447-8695"
   page: "431"
+  link: "http://eventos.ufg.br/SIEC/portalproec/sites/site12721/site/arquivos/PIVIC.pdf#page=136"

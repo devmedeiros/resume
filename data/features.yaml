@@ -14,7 +14,7 @@ about:
       url: https://devmedeiros.com/
       icon: fas fa-globe
   details: |
-    Professional with an analytical profile, and four years of experience in Data Science. I hold a bachelor's degree in Statistics and received a Specialist degree in Database with Big Data. Currently working as an Analytics Engineer at Henry Schein Brazil.
+    Professional with an analytical profile, and five years of experience in Data Science. I hold a bachelor's degree in Statistics and received a Specialist degree in Database with Big Data. Currently working as an Analytics Engineer at Henry Schein Brazil.
 
     Ability to solve complex problems and generate insights that help improve data governance, productivity, and transparency.
 
@@ -70,9 +70,4 @@ certificates:
     subtitle: Alura
     date: "2022"
     link: https://cursos.alura.com.br/degree/certificate/4d54aafb-285a-47c8-979d-7e513191d612?lang=en
-
-  - title: "Python for Data Science"
-    subtitle: Alura
-    date: "2021"
-    link: https://cursos.alura.com.br/degree/certificate/ae48ffb3-ca83-4a24-a769-e2ae7d4e62cc?lang=en
 
