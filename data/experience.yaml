@@ -2,9 +2,9 @@
   roles:
     - role: Analytics Engineer
       details:  |
-       - Enhancing system performance and minimizing processing time by closely monitoring and optimizing data processes and queries;
        - Streamlining data structures for smooth querying and efficient reporting;
-       - Collaborating with cross-functional teams to grasp and address specific business requirements.
+       - Collaborating with cross-functional teams to grasp and address specific business requirements;
+       - Creating and maintaining APIs in Flask to provide vital data to internal customers, ensuring a continuous flow of critical information.
       date: "12.2022 -  Present"
 
 - company: Electoral Regional Court of Goiás

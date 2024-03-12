@@ -21,7 +21,7 @@ about:
 skills:
   groupname:
     list:
-    - Python, R, Airflow, Power BI, SQL, Git, Streamlit, Flask, Django
+    - SQL, Python, Airflow, Databricks, Power BI, Git, Streamlit, Flask, Azure, Django, R
 
 interests:
   - Data Analysis
@@ -66,8 +66,8 @@ certificates:
     date: "2022"
     link: https://cursos.alura.com.br/degree/certificate/1ba5fa24-b24d-496c-a17d-befa256ee990?lang=en
 
-  - title: "Machine Learning"
-    subtitle: Alura
+  - title: "Databricks Lakehouse Fundamentals"
+    subtitle: Databricks
     date: "2022"
-    link: https://cursos.alura.com.br/degree/certificate/4d54aafb-285a-47c8-979d-7e513191d612?lang=en
+    link: https://credentials.databricks.com/f506dd38-37a6-4cb0-83a3-29642c6f4bde#gs.5qayrx
 
