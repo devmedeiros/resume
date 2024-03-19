@@ -1,17 +1,12 @@
 projects:
-- title: "Simulated Annealing for Traveling Salesman Problem"
-  subtitle: "Some University"
-  date: "2016"
+- title: "Nota Fiscal Goiana"
+  link: "https://github.com/devmedeiros/nota-fiscal-goiana"
+  date: "10.2022 - Present"
   details: |
-    Lorem ipsum dolor sit amet
+    This project presents a complete solution to ETL the data from Nota Fiscal Goiana. It also presents the curated data in a Streamlit dashboard.
 
-- title: "Resume - A4"
-  subtitle: "mertbakir.gitlab.io/resume"
-  link: "https://gitlab.com/mertbakir/resume-a4"
-  date: "2020"
+- title: "Raio X - Entendendo o Tempo de Julgamento dos Processos Judiciais"
+  link: "https://github.com/team33inova/app_team33?tab=readme-ov-file"
+  date: "10.2020 - 11.2020"
   details: |
-    Bring CI/CD to your resume using YAML and Git."
-  links:
-  - title: Available in GitLab
-    url: https://gitlab.com/mertbakir/resume-a4
-    icon: fab fa-gitlab
+    This project marked my team's participation in the "Hackathon CNJ - Desafio Tempo e Produtividade".

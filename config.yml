@@ -78,8 +78,8 @@ params:
           title: About Me
         - feature: experience
     - features:
-        #- feature: projects
-        #  collection: projects
+        - feature: projects
+          collection: projects
         - feature: publications
           style: IEEE # IEEE, APA, else
         #- feature: awards
@@ -93,7 +93,7 @@ params:
     show: true
     credits: false
     footnote: >-
-      Last update on 2024-03-11.
+      Last update on 2024-03-18.
     links: 
       - prefix: Contact me on
         title: Linkedin
