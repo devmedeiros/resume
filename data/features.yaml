@@ -21,13 +21,12 @@ about:
 skills:
   groupname:
     list:
-    - SQL, Python, Airflow, Databricks, Power BI, Git, Streamlit, Flask, Azure, Django, R
+    - SQL, Python, Spark, Airflow, Databricks, Power BI, Git, Streamlit, Flask, Azure, R
 
 interests:
-  - Data Analysis
+  - Data Engineering
   - Machine Learning
-  - Sharing Knowledge
-  - Continuous Improvement
+  - Learning & Sharing Knowledge
 
 languages:
   - name: Portuguese
@@ -61,6 +60,16 @@ awards:
         prefix: "omg"
 
 certificates:
+  - title: "PostgreSQL High Performance Tuning Guide"
+    subtitle: Udemy
+    date: "2024"
+    link: https://www.udemy.com/certificate/UC-6a8e4d5d-21f5-4598-9554-a1d5d2c50238/
+
+  - title: "Fundamentals of Project Management"
+    subtitle: Google
+    date: "2023"
+    link: https://www.coursera.org/account/accomplishments/verify/7VKN53BYN47U
+
   - title: "Machine Learning for Digital Business"
     subtitle: Alura
     date: "2022"
