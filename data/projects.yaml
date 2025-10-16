@@ -1,7 +1,13 @@
 projects:
+- title: "cotAI"
+  link: "https://github.com/devmedeiros/cotai"
+  date: "08.2025 - Present"
+  details: |
+    This project presents an ETL application that uses an LLM to generate a summary of the daily changes in major exchange rates compared to the Brazilian Real.
+
 - title: "Nota Fiscal Goiana"
   link: "https://github.com/devmedeiros/nota-fiscal-goiana"
-  date: "10.2022 - Present"
+  date: "10.2022 - 07.2025"
   details: |
     This project presents a complete solution to ETL the data from Nota Fiscal Goiana. It also presents the curated data in a Streamlit dashboard.
 

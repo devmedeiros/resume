@@ -2,7 +2,7 @@
   roles:
     - role: Analytics Engineer
       details:  |
-       - Streamlining data structures for smooth querying and efficient reporting;
+       - Developed data pipelines using PySpark and SQL to transform core data and deliver insights to stakeholders via Power BI reports;
        - Collaborating with cross-functional teams to grasp and address specific business requirements;
        - Creating and maintaining APIs in Flask to provide vital data to internal customers, ensuring a continuous flow of critical information.
       date: "12.2022 -  Present"
